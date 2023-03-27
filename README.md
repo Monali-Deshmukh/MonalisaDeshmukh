@@ -3,7 +3,7 @@
 <img align="right" alt="coading" width ="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
-- 🔭 I’m currently working on [Forest-fire-prediction](https://github.com/MonalisaDeshmukh/Forest-fire-prediction)
+- 🔭 I’m currently working on [Sickle Cell Detection](https://github.com/MonalisaDeshmukh/Forest-fire-prediction)
 
 - 💬 Ask me about **ML, NLP , Deep learning**
 
