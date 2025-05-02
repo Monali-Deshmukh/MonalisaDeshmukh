@@ -42,8 +42,8 @@
 ---
 
 ### 📝 Technical Writing
-- [“How to Fine-Tune LLMs for Low-Resource Languages”](https://medium.com/@you)  
-- [“Deploying ML Models with Docker on a Budget”](https://dev.to/you)  
+/// - [“How to Fine-Tune LLMs for Low-Resource Languages”](https://medium.com/@you)  
+/// - [“Deploying ML Models with Docker on a Budget”](https://dev.to/you)  
 
 ---
 
