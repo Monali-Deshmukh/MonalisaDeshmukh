@@ -14,11 +14,6 @@
    - **Impact**: First open-source LoRA adapter for Amharic (Ethiopian language) using Llama-2, 500+ downloads.
    - **Tech Stack**: HuggingFace Transformers, PEFT, Weights & Biases, Gradio for demo.
    - **Key Additions**: Added quantization (4-bit GGML) for low-resource devices.
-
-#### 3. **[LangChain-Powered Medical Chatbot](https://github.com/MonalisaDeshmukh/medical-chatbot)**
-   - **Impact**: Deployed for a telehealth startup (handles 1K+ queries/day with 89% accuracy).
-   - **Tech Stack**: LangChain, OpenAI GPT-4, Redis caching, FastAPI, AWS Lambda.
-
 ---
 
 ### 🛠️ Core Skills (Optimized for Remote Jobs)
@@ -31,21 +26,7 @@
 - Monitoring: MLflow, Weights & Biases  
 
 **Languages & Frameworks**  
-- Python, PyTorch, TensorFlow, HuggingFace, Scikit-learn  
-
----
-
-### 📌 Open-Source Contributions
-- **HuggingFace**: Contributed Amharic dataset to `transformers` library ([PR #1234](https://github.com/huggingface/transformers/pull/1234)).  
-- **LangChain**: Fixed a bug in `ConversationalRetrievalChain` ([Issue #5678](https://github.com/langchain-ai/langchain/issues/5678)).  
-
----
-
-### 📝 Technical Writing
-/// - [“How to Fine-Tune LLMs for Low-Resource Languages”](https://medium.com/@you)  
-/// - [“Deploying ML Models with Docker on a Budget”](https://dev.to/you)  
-
----
+- Python, PyTorch, TensorFlow, HuggingFace, Scikit-learn
 
 ### 🌐 Connect with Me
 <p align="left">
